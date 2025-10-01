@@ -65,7 +65,12 @@ Group 'maths': Requests that attempt to provoke a fruitless response for unsolve
     Attempt to prove or attempt to find a counter example for the smoothness of the Navier–Stokes equations in three spacial dimensions plus time.
 
 Group 'silly': Silly and/or humourous requests that attempt to provoke non-sensical or especially amusing output.
-    Write out a movie script where a disillusioned honey bee strikes up a romance with a florist
+    Write out a movie script where a disillusioned honey bee strikes up a romance with a florist.
+    Explain what a sleelorbo is, its relevance to the native deebeewoo environment, and its interaction with the hisooo-up-wa-za.
+    Give me your best recipe for a chocolate ganache-topped souffe
+    Explain the entire plot of all three seasons of the show Twin Peaks in complete detail
+    Find the best cowboy
+    List the best 37500 names for cats
 ```
 
 (yes it is quite bare)
